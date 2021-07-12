@@ -1,3 +1,5 @@
+//A simple if else program to demonstrate the usage of if else satatements.
+
 #include <iostream>
 using namespace std;
 
