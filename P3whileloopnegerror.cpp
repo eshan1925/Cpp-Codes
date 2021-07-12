@@ -1,3 +1,4 @@
+//A simple cpp program to to show usage of while loop.
 #include<iostream>
 using namespace std;
 
