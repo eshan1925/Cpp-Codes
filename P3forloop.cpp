@@ -1,3 +1,5 @@
+//A simple c++ program to find the sum of numbers and demostrate usage of for loop.
+
 #include<iostream>
 using namespace std;
 
