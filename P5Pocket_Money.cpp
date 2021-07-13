@@ -1,3 +1,9 @@
+/*
+WAP to input the pocketmoney of a student and then according to the pocketmoney he has he should go out if it is a even day and everyday he goes out he spends 300 rs.
+SO the day pocket money reaches zero he wont go out.
+Print Go out today!!! if he is allwoed to go out.
+*/
+
 #include<iostream>
 using namespace std;
 
