@@ -1,3 +1,7 @@
+/*
+Print all the numbers that are not divisible by 3 from 1 to 100.
+*/
+
 #include<iostream>
 using namespace std;
 
