@@ -1,3 +1,5 @@
+//Simple program for implementation of switch.
+
 #include<iostream>
 using namespace std;
 
