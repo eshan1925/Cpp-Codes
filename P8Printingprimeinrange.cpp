@@ -1,3 +1,5 @@
+//Program to print prime numbers is an given range.
+
 #include<iostream>
 using namespace std;
 
