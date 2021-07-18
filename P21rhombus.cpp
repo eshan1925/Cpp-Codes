@@ -1,3 +1,4 @@
+//WAP to print a n heighted rhombus.
 #include<iostream>
 using namespace std;
 
