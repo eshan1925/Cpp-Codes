@@ -1,3 +1,13 @@
+/*
+WAP to print an n heighted 1 and ) right triangle.
+Example
+for n=5
+ 1
+ 0 1
+ 1 0 1
+ 0 1 0 1
+ 1 0 1 0 1
+*/
 #include<iostream>
 using namespace std;
 
