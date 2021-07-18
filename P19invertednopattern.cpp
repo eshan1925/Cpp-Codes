@@ -1,3 +1,13 @@
+/*
+WAP tp print a n heighted inverted number patter.
+Example-:
+for n=5
+ 1 2 3 4 5
+ 1 2 3 4
+ 1 2 3
+ 1 2
+ 1
+*/
 #include<iostream>
 using namespace std;
 int main(){
