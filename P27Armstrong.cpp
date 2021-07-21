@@ -1,3 +1,4 @@
+//WAP to check if a given number is an armstrong number or not.
 #include<iostream>
 using namespace std;
 
