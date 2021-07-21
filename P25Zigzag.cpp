@@ -1,3 +1,10 @@
+/*
+WAP to draw a zig-zag star pattern given the number of n as shown-:
+n=5
+    *     
+  *   *   
+*       * 
+*/
 #include<iostream>
 using namespace std;
 
