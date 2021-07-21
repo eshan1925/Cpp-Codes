@@ -1,3 +1,5 @@
+//WAP to reverse a given number-:
+
 #include<iostream>
 using namespace std;
 
