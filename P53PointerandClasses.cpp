@@ -69,8 +69,8 @@ int main()
          << r1.getBreadth() << endl
          << ptr->perimeter() << endl;
 
-    here we did not declare any object and directly declared the pointer in the heap
-    and accessing values using that only
+    //here we did not declare any object and directly declared the pointer in the heap
+    //and accessing values using that only
     Rectangle *p = new Rectangle;
     int l,b;
     cout << "Enter the Length of Rectangle: " << endl;
